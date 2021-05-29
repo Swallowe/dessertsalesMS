@@ -1,0 +1,18 @@
+.mx-footer {
+    width: calc(100% - 200px);
+    line-height: 50px; /*设置div内容高度*/
+    background-color: #F7F4E3;
+    color: #333;
+    text-align: center;
+    font-size: 12px;
+    float: right;
+}
+
+/*分割线*/
+.mx-horizontal-split {
+    height: 3px;
+    border: 0;
+    margin: 0px;
+    padding: 0;
+    background-color: #EAD2BC;
+}
